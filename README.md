@@ -8,7 +8,7 @@ This repository contains the implementation of a 3D point cloud classification m
 - `model.py`: Implementation of the PointNet model.
 - `training.py`: Script for training the PointNet model.
 - `infer.py`: Script for performing inference with the trained PointNet model.
-- 'pcd.py' : generates point clouds from random test data
+- `pcd.py` : generates point clouds from random test data
 
 ## Folder Structure
 
